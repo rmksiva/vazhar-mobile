@@ -1,0 +1,145 @@
+{
+    "documentation": "https://opencagedata.com/api",
+    "licenses": [
+        {
+            "name": "see attribution guide",
+            "url": "https://opencagedata.com/credits"
+        }
+    ],
+    "rate": {
+        "limit": 2500,
+        "remaining": 2497,
+        "reset": 1600819200
+    },
+    "results": [
+        {
+            "annotations": {
+                "DMS": {
+                    "lat": "8\u00b0 13' 4.78452'' N",
+                    "lng": "77\u00b0 26' 4.96536'' E"
+                },
+                "MGRS": "43PGK6823609212",
+                "Maidenhead": "MJ88rf22dh",
+                "Mercator": {
+                    "x": 8619992.779,
+                    "y": 911872.55
+                },
+                "OSM": {
+                    "edit_url": "https://www.openstreetmap.org/edit?way=798760714#map=17/8.21800/77.43471",
+                    "note_url": "https://www.openstreetmap.org/note/new#map=17/8.21800/77.43471&layers=N",
+                    "url": "https://www.openstreetmap.org/?mlat=8.21800&mlon=77.43471#map=17/8.21800/77.43471"
+                },
+                "UN_M49": {
+                    "regions": {
+                        "ASIA": "142",
+                        "IN": "356",
+                        "SOUTHERN_ASIA": "034",
+                        "WORLD": "001"
+                    },
+                    "statistical_groupings": [
+                        "LEDC"
+                    ]
+                },
+                "callingcode": 91,
+                "currency": {
+                    "alternate_symbols": [
+                        "Rs",
+                        "\u09f3",
+                        "\u0af1",
+                        "\u0bf9",
+                        "\u0930\u0941",
+                        "\u20a8"
+                    ],
+                    "decimal_mark": ".",
+                    "html_entity": "&#x20b9;",
+                    "iso_code": "INR",
+                    "iso_numeric": "356",
+                    "name": "Indian Rupee",
+                    "smallest_denomination": 50,
+                    "subunit": "Paisa",
+                    "subunit_to_unit": 100,
+                    "symbol": "\u20b9",
+                    "symbol_first": 1,
+                    "thousands_separator": ","
+                },
+                "flag": "\ud83c\uddee\ud83c\uddf3",
+                "geohash": "t9rnf041r96wh8p3hjbu",
+                "qibla": 294.26,
+                "roadinfo": {
+                    "drive_on": "left",
+                    "speed_in": "km/h"
+                },
+                "sun": {
+                    "rise": {
+                        "apparent": 1600735260,
+                        "astronomical": 1600817460,
+                        "civil": 1600734000,
+                        "nautical": 1600818900
+                    },
+                    "set": {
+                        "apparent": 1600778700,
+                        "astronomical": 1600782840,
+                        "civil": 1600779960,
+                        "nautical": 1600781400
+                    }
+                },
+                "timezone": {
+                    "name": "Asia/Kolkata",
+                    "now_in_dst": 0,
+                    "offset_sec": 19800,
+                    "offset_string": "+0530",
+                    "short_name": "IST"
+                },
+                "what3words": {
+                    "words": "coach.crumb.yesterday"
+                }
+            },
+            "bounds": {
+                "northeast": {
+                    "lat": 8.2190721,
+                    "lng": 77.4348309
+                },
+                "southwest": {
+                    "lat": 8.217919,
+                    "lng": 77.4335755
+                }
+            },
+            "components": {
+                "ISO_3166-1_alpha-2": "IN",
+                "ISO_3166-1_alpha-3": "IND",
+                "_category": "place",
+                "_type": "neighbourhood",
+                "city": "Nagercoil",
+                "city_district": "Rajakkamangalam",
+                "continent": "Asia",
+                "country": "India",
+                "country_code": "in",
+                "county": "Agastheeswaram",
+                "postcode": "629001",
+                "state": "Tamil Nadu",
+                "state_code": "TN",
+                "state_district": "Kanyakumari district"
+            },
+            "confidence": 9,
+            "formatted": "Rajakkamangalam, Nagercoil - 629001, Tamil Nadu, India",
+            "geometry": {
+                "lat": 8.2179957,
+                "lng": 77.4347126
+            }
+        }
+    ],
+    "status": {
+        "code": 200,
+        "message": "OK"
+    },
+    "stay_informed": {
+        "blog": "https://blog.opencagedata.com",
+        "twitter": "https://twitter.com/OpenCage"
+    },
+    "thanks": "For using an OpenCage API",
+    "timestamp": {
+        "created_http": "Tue, 22 Sep 2020 11:43:12 GMT",
+        "created_unix": 1600774992
+    },
+    "total_results": 1
+}
